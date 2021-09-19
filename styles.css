@@ -5,7 +5,7 @@
 }
 
 /* Mobile Styles */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 200px) {
   body {
     background-color: #F09A9D; /* Red */
   }
